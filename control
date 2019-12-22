@@ -1,0 +1,8 @@
+Package: null.leptos.filzopen
+Name: Filza Open
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Open a path in Filza from terminal using `open`
+Maintainer: leptos <leptos.0.null@gmail.com>
+Author: leptos <leptos.0.null@gmail.com>
+Section: System
